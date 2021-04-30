@@ -1,0 +1,14 @@
+body {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.buttons-list {
+  margin-top: 32px;
+}
+
+.buttons-list > button {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 16px
+}
